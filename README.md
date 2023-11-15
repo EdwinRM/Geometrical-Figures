@@ -19,7 +19,7 @@ To use this application, you need to have an Android environment set up. You can
 4. View the calculated area in the "Resultado" field.
 
 ## Screenshots
-Include screenshots or GIFs to visually demonstrate how your application works.
+-
 
 ## Dependencies
 - This project uses the Android SDK for mobile application development.
@@ -31,4 +31,4 @@ If you'd like to contribute to this project, please follow the standard GitHub f
 This project is licensed under the [MIT License](LICENSE).
 
 ## Author
-Your Name
+Edwin Ramirez
